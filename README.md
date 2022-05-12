@@ -39,7 +39,7 @@
       alt="Bhushan Bhamare | Twitter" height="30" width="40" /></a>
    <a href="bhubhamare1703@gmail.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/dc8df5b8d647042d699fb6832af73ddba9cfe8a6/images/svg/gmail.svg"
-      alt="Bhushan Bhamare | gmail" height="30" width="40" /></a>
+      alt="**bhubhamare@gmail.com**" height="30" width="40" /></a>
    <a href="https://www.codechef.com/users/bhushan_1703">
     <img align="left" alt="Bhushan Bhamare | Codechef" width="30px" src="https://github.com/amankrx/amankrx/blob/master/icons/codechef.png" />
     </a>
