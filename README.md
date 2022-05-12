@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm currently studying Computer Science Engineering at IIIT, Nagpur.\
 🌱 &nbsp;I'm on track for learning more about Backend Development, and get into Open Source.\
 💬 &nbsp;Feel free to reach out to me for open source opportunities or working alogside a project.\
-📄 &nbsp;Please have a look at my [Résumé](#) for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/folders/1_NfnnvahRdCjb37Ij3-KK77GmfcWjQBV?usp=sharing) for more details about me.
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=BHUSHAN1703&label=Profile%20Views&color=blueviolet&style=flat"
     alt="Bhushan" /> 
