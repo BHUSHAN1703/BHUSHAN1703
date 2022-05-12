@@ -1,6 +1,6 @@
 <h1 align="center">Hi😄, I'm Bhushan Bhamare</h1>
 <h3 align="center">Student at IIIT, Nagpur🌟</h3>
-<h3 align="center">IIIT, Nagpur is an Institute of National Importance as Declared By The Parliament Of India🏦</h3>
+<h3 align="center">Btech Cse 2023</h3>
 
 <br>
 
