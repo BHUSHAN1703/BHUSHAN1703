@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **bhushanbhamare@gmail.com**
+- 📫 How to reach me **bhubhamare@gmail.com**
 
 - ⚡ Fun fact :- food and anime are the reasons to live.
 
