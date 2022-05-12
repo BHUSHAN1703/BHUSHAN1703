@@ -35,7 +35,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Bhushan Bhamare" height="30" width="40" /></a>
    <a href="https://twitter.com/amankrx" target="blank"><img align="center"
-  <img align="left" alt="Aman Kumar | Twitter"  alt="Bhushan Bhamare" height="30" width="40" /></a>
+  <img align="left" alt="Aman Kumar | Twitter" src="icons/twitter.svg"  alt="Bhushan Bhamare" height="30" width="40" /></a>
     
 
     <a href="https://www.linkedin.com/in/amankrx/">
