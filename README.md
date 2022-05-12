@@ -34,13 +34,14 @@
   <a href="https://www.linkedin.com/in/bhushan-bhamare-279294194/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Bhushan Bhamare" height="30" width="40" /></a>
-        <a href="https://twitter.com/amankrx">
+   <a href="https://twitter.com/amankrx">
   <img align="left" alt="Aman Kumar | Twitter" width="30px" src="icons/twitter.svg" />
-</a>
+    </a>
 
-<a href="https://www.linkedin.com/in/amankrx/">
+    <a href="https://www.linkedin.com/in/amankrx/">
   <img align="left" alt="Aman Kumar | LinkedIN" width="30px" src="icons/linkedin.svg" />
-</a>
+    </a>
+        
 
 <br>
 
