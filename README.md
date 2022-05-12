@@ -1,6 +1,7 @@
-<h1 align="center">Hi😄, I'm Bhushan Bhamare</h1>
-<h3 align="center">Student at IIIT, Nagpur🌟</h3>
-<h3 align="center">Btech Cse 2023</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="left">I'm Bhushan Bhamare</h1>
+<h3 align="left">Student at IIIT, Nagpur🌟</h3>
+<h3 align="left">Btech Cse 2023</h3>
 
 <br>
 ### 👨🏻‍💻 &nbsp;About Me:
